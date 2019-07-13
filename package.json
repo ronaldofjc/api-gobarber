@@ -1,0 +1,11 @@
+{
+  "name": "api-gobarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ronaldofjc/api-gobarber.git",
+  "author": "Ronaldo <ronaldofjc@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
